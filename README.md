@@ -11,3 +11,5 @@ cp YourOsig app/src/main/assets
 gradle build
 adb install app/build/outputs/apk/app-debug.apk
 ```
+
+And open link such as https://theta360.com/s/pmI0if0dSGpmGrxememIXKba8
